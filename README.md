@@ -1,5 +1,5 @@
-**FUTURE_CS_02 – Phishing Email Detection & Awareness System
-**
+FUTURE_CS_02 – Phishing Email Detection & Awareness System
+
 This repository contains a phishing email detection and cybersecurity awareness project completed as part of the Future Interns Cyber Security Internship Program.
 
 The project focuses on analyzing phishing email samples, identifying phishing indicators, classifying risks, and creating awareness documentation to help users recognize and prevent phishing attacks.
