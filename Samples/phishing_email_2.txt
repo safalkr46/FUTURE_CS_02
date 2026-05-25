@@ -1,0 +1,21 @@
+Subject: PayPal Account Temporarily Limited
+
+Dear Customer,
+
+We recently noticed unusual payment activity on your PayPal account that requires immediate attention.
+
+For your protection, certain account features have been temporarily disabled until identity verification is completed.
+
+Please confirm your information here:
+
+http://paypal-security-update[.]com
+
+If verification is not completed within 12 hours:
+- Transactions may be blocked
+- Account access may be restricted
+- Pending payments could be canceled
+
+Thank you for your cooperation.
+
+Sincerely,
+PayPal Resolution Center

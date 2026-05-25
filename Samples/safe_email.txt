@@ -1,0 +1,19 @@
+Subject: GitHub Security Notification
+
+Hello Safal,
+
+A successful login to your GitHub account was detected from:
+
+Device: Chrome on macOS
+Location: India
+Time: 7:42 PM IST
+
+If this was you, no action is required.
+
+You can review your recent account activity here:
+https://github.com/settings/security-log
+
+GitHub will never ask for your password through email links.
+
+Regards,
+GitHub Security Team

@@ -1,0 +1,21 @@
+Subject: Microsoft Account Security Alert
+
+Dear User,
+
+We detected unusual login activity associated with your Microsoft account from an unknown device located outside your region.
+
+As part of our security policy, temporary restrictions have been placed on your account until verification is completed.
+
+To avoid permanent suspension, please verify your account immediately using the secure link below:
+
+http://microsoft-account-verification[.]com
+
+Failure to verify within 24 hours may result in:
+- Email access suspension
+- Loss of cloud data access
+- Password reset lock
+
+Thank you for helping us keep your account secure.
+
+Regards,
+Microsoft Security Operations
