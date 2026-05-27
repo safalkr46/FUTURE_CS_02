@@ -1,33 +1,43 @@
-Prevention Guidelines
+# **Prevention Guidelines**
 
-Recommended Security Measures
+## **Recommended Security Measures**
 
-1. Enable Multi-Factor Authentication
+### **1. Enable Multi-Factor Authentication**
 
-MFA provides additional account security protection.
+**MFA** provides additional **account security protection**.
 
-2. Use Email Filtering
+---
 
-Spam and phishing filters help block malicious emails.
+### **2. Use Email Filtering**
 
-3. Verify URLs Carefully
+**Spam and phishing filters** help block **malicious emails**.
 
-Always inspect website links before entering credentials.
+---
 
-4. Keep Systems Updated
+### **3. Verify URLs Carefully**
 
-Updated systems reduce exposure to security vulnerabilities.
+Always **inspect website links** before entering **credentials**.
 
-5. Conduct Security Awareness Training
+---
 
-Organizations should regularly educate employees about phishing risks.
+### **4. Keep Systems Updated**
 
-6. Report Suspicious Emails
+**Updated systems** reduce exposure to **security vulnerabilities**.
 
-Potential phishing attempts should be reported immediately.
+---
 
-⸻
+### **5. Conduct Security Awareness Training**
 
-Conclusion
+Organizations should regularly **educate employees** about **phishing risks**.
 
-Combining employee awareness with technical security controls significantly improves protection against phishing attacks and social engineering threats.
+---
+
+### **6. Report Suspicious Emails**
+
+**Potential phishing attempts** should be **reported immediately**.
+
+---
+
+## **Conclusion**
+
+Combining **employee awareness** with **technical security controls** significantly improves protection against **phishing attacks** and **social engineering threats**.
